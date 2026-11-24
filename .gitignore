@@ -1,0 +1,8 @@
+# Source artwork and private files – never publish
+Updated Vector Based Logo/
+*.psd
+*.ai
+*.pdf
+.DS_Store
+cafe-venezia-website-brief.md
+.claude/
